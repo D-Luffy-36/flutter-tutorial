@@ -13,6 +13,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_svg: ^2.0.9
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -23,6 +24,7 @@ flutter:
 
 
   assets:
-    - assets/categories/category1.png
-    - assets/categories/post.svg
-#    - assets/categories/category3.png
+    - assets/categories/
+    - assets/posts/
+    - assets/restaurants/
+    - assets/profie_pics/
